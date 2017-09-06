@@ -1,7 +1,7 @@
 name: Jekyll Video
 description: Template for a video blog.
-url: 'https://jekyll-video.com'
-baseurl: '/jekyll-video'
+url: 'https://yongheng2016.github.io/'
+baseurl: '/blog-theme'
 email: jekyll-video@example.com
 twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/jekyll-video
